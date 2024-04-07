@@ -1,0 +1,11 @@
+.navbar-section {
+    background-color: #121212;
+    color: white;
+
+}
+.movie-description {
+    height:150px;
+    margin-left: 15%;
+    margin-right: 15%;
+    border: 1px solid black;
+}
