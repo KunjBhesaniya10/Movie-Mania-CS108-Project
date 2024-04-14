@@ -22,7 +22,7 @@ const Navbar = () => {
           <Link className="nav-link text-white" to={'/'}>WatchList</Link>
         </li>
 
-        <Link className="nav-link text-white" to={'/'}>Login/Register</Link>
+        <Link className="nav-link text-white" to={'/login'}>Login/Register</Link>
 
       </ul>
     </div>
