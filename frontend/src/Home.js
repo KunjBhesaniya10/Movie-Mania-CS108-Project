@@ -1,11 +1,11 @@
 import MovieList from "./HomePage/MovieList";
 
-const Home = () => {
+const Home = ({MoviesData}) => {
     return ( 
         <>
          <div className="container mt-5">
 
-                <MovieList/>
+                <MovieList MoviesData={MoviesData}/>
             
          </div>
         </>

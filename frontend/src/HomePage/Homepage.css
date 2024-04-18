@@ -1,6 +1,9 @@
 .navbar-section {
     background-color: #121212;
     color: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
 
 }
 .movie-description {
