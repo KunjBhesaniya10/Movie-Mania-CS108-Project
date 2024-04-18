@@ -38,7 +38,10 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
-    'MovieData'
+    'MovieData',
+    'api',
+    'rest_framework',
+    'corsheaders'
 ]
 
 MIDDLEWARE = [
